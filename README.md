@@ -1,11 +1,11 @@
-# Berners-Lee-Builders
+# Profi ChatBot
 
 # Teachy: Chatbot Éducatif pour Écoles Privées
 
 ## Introduction
 **Teachy** est un chatbot éducatif innovant conçu pour assister les élèves dans leurs révisions et leur apprentissage de manière interactive et personnalisée. Avec les cours particuliers désormais limités en dehors des établissements scolaires par le ministère de l'Éducation tunisien, Teachy répond au besoin pressant d’un outil accessible et en phase avec le programme scolaire. Contrairement à des outils génériques comme Google ou ChatGPT, Teachy propose des réponses claires et adaptées au niveau des élèves, en s’appuyant sur les manuels, exercices, et ressources des enseignants.
 
-## Fonctionnalités
+## ✅ Fonctionnalités
 - **Alignement sur le programme scolaire** : Réponses adaptées au programme et au niveau de l'élève.
 - **Support en continu** : Questions posées à tout moment et suivies d’explications détaillées.
 - **Feedback aux enseignants** : Identification des chapitres problématiques grâce aux questions fréquentes des élèves.
